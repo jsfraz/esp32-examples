@@ -10,4 +10,6 @@
 6) Search ESP32
 7) Install package `esp32` by Espressif Systems
 
-## [Source](https://esp32io.com/tutorials/esp32-software-installation)
+## Sources
+
+- [ESP32 - Software Installation](https://esp32io.com/tutorials/esp32-software-installation)
