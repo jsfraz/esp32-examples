@@ -12,7 +12,7 @@ You can use **Tools > Serial Monitor** or any other serial client like [Putty](h
 
 ## From PC TO ESP32
 
-TODO codeblock
+https://github.com/jsfraz/esp32-examples/blob/ebb3c90ac6a092163e0ed519d7a69aa4b9a9913d/examples/Internal%20Serial%20Console/sketch_pc_to_esp32/sketch_pc_to_esp32.ino#L1-L12
 
 You can use **Arduino IDE Serial Monitor** using **Tools > Serial Monitor** or any other serial client like [Putty](https://www.putty.org/) to send data to the serial port.
 
