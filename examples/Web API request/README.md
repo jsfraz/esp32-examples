@@ -1,4 +1,4 @@
-# Web API request
+# Web API Request
 
 Following code will connect to Wi-Fi, make HTTP request to [Sunset and Sunrise Times API](https://sunrisesunset.io/api/), decode JSON response using [ArduinoJson library](https://arduinojson.org/) and print sunrise and sunset times.
 

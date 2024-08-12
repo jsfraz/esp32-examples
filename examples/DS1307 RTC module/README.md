@@ -1,6 +1,6 @@
-# DS1307 RTC module
+# DS1307 RTC Module
 
-TODO DS1307 RTC module
+TODO DS1307 RTC Module
 
 ## Sources
 

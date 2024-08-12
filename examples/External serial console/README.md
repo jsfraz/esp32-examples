@@ -1,6 +1,6 @@
-# External serial console
+# External Serial Console
 
-TODO External serial console
+TODO External Serial Console
 
 ## Sources
 

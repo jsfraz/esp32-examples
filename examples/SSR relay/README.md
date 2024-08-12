@@ -1,6 +1,6 @@
-# SSR relay
+# SSR Relay
 
-TODO SSR relay
+TODO SSR Relay
 
 ## Sources
 
