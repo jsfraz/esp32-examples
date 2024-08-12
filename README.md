@@ -19,11 +19,7 @@ Various examples using DOIT ESP32 DEVKIT V1.
 
 ## Examples
 
-### Basic
-
-- [Setup Arduino IDE](basic/Setup%20Arduino%20IDE.md)
-- [Hello World](basic/Hello%20World/README.md)
-
-### Switching
-
-- [8-Channel Transistor Array](switching/8-Channel%20Transistor%20Array8-Channel%20Transistor%20Array/README.md)
+- [Setup Arduino IDE](examples/Setup%20Arduino%20IDE.md)
+- [Hello World](examples/Hello%20World/README.md)
+- [Internal Serial Console](examples/Internal%20Serial%20Console/README.md)
+- [8-Channel Transistor Array](examples/8-Channel%20Transistor%20Array8-Channel%20Transistor%20Array/README.md)
