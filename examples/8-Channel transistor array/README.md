@@ -1,4 +1,6 @@
-# 8-Channel Transistor Array
+# 8-Channel transistor array
+
+TODO 8-Channel transistor array
 
 ## Sources
 
