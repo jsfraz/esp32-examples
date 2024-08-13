@@ -1,6 +1,6 @@
-# External Serial Console
+# Hardware Serial Console
 
-TODO External Serial Console
+TODO Hardware Serial Console
 
 ## Sources
 

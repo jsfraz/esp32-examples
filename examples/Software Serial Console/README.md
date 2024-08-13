@@ -1,4 +1,4 @@
-# Internal Serial Console
+# Software Serial Console
 
 You can communicate with ESP32 serial interface USB cable.
 

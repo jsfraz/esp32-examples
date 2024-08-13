@@ -11,8 +11,8 @@ Various examples using DOIT ESP32 DEVKIT V1.
 
 - [Setup Arduino IDE](examples/Setup%20Arduino%20IDE.md)
 - [Hello World](examples/Hello%20World/README.md)
-- [Internal Serial Console](examples/Internal%20Serial%20Console/README.md)
-- [External Serial Console](examples/External%20Serial%20Console/README.md)
+- [Software Serial Console](examples/Software%20Serial%20Console/README.md)
+- [Hardware Serial Console](examples/Hardware%20Serial%20Console/README.md)
 - [Wi-Fi](examples/Wi-Fi/README.md)
 - [Web API Request](examples/Web%20API%20Request/README.md)
 - [8-Channel Transistor Array](examples/8-Channel%20Transistor%20Array/)
