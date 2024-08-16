@@ -1,6 +1,6 @@
 # SSR Relay
 
-TODO SSR Relay
+This circuit shows how to switch off an appliance with a 230 V load using an SSR relay.
 
 ![SSR Relay](sketch.png "SSR Relay")
 
