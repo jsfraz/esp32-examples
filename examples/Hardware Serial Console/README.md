@@ -8,7 +8,7 @@ You can connect it to your PC with [USB to RS232 conventer](https://www.laskakit
 
 Usage if pretty much the same as with Serial1. Here is echo example:
 
-TODO code
+[TODO code](https://github.com/jsfraz/esp32-examples/blob/c9c8a3be0db80314e3bf3620e83c924fca9ac8ab/examples/Hardware%20Serial%20Console/sketch/sketch.ino#L1-L16)
 
 ## Sources
 
