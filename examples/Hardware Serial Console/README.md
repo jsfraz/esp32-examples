@@ -10,6 +10,10 @@ Usage if pretty much the same as with Serial1. Here is echo example:
 
 https://github.com/jsfraz/esp32-examples/blob/c9c8a3be0db80314e3bf3620e83c924fca9ac8ab/examples/Hardware%20Serial%20Console/sketch/sketch.ino#L1-L16
 
+## Fritzing parts
+
+- [RS232-to-TTL-Converter](https://github.com/foorschtbar/Fritzing-Parts)
+
 ## Sources
 
 - [ESP32 RS232](https://esp32io.com/tutorials/esp32-rs232)
