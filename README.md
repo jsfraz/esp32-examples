@@ -15,8 +15,8 @@ Various examples for DOIT ESP32 DEVKIT V1 using Arduino IDE and TinyGo.
 - [Hardware Serial Console](examples/Hardware%20Serial%20Console/README.md)
 - [Wi-Fi](examples/Wi-Fi/README.md)
 - [Web API Request](examples/Web%20API%20Request/README.md)
-- [8-Channel Transistor Array](examples/8-Channel%20transistor%20array/README.md)
-- [SSR Relay](examples/SSR%20relay/README.md)
+- [8-Channel Transistor Array](examples/8-Channel%20Transistor%20Array/README.md)
+- [SSR Relay](examples/SSR%20Relay/README.md)
 
 ## TinyGo examples
 
