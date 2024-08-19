@@ -1,6 +1,6 @@
 # ESP32 examples
 
-Various examples using DOIT ESP32 DEVKIT V1.
+Various examples for DOIT ESP32 DEVKIT V1 using Arduino IDE and TinyGo.
 
 ## DOIT ESP32 DEVKIT V1 pinout
 
