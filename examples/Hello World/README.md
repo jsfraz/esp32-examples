@@ -2,7 +2,7 @@
 
 ## Steps
 
-1) Open Arduino IDE, create project and pste the following code:
+1) Open Arduino IDE, create project and paste the following code:
 
 https://github.com/jsfraz/esp32-examples/blob/19d93d1fda92e05c4c6ff4420fcf878207474cf1/examples/Hello%20World/sketch/sketch.ino#L1-L8
 

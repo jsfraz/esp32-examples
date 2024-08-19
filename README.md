@@ -19,6 +19,11 @@ Various examples using DOIT ESP32 DEVKIT V1.
 - [SSR Relay](examples/SSR%20Relay/)
 - [DS1307 RTC Module](examples/DS1307%20RTC%20Module/)
 
+## TinyGo examples
+
+- [Setup TinyGo](tinygo-examples/Setup%20TinyGo.md)
+- [Hello World](tinygo-examples/Hello%20World/README.md)
+
 ## Used software
 
 - [Fritzing 0.9.9](https://github.com/Move2win/Fritzing-0.9.9.64.pc-Compiled-Build)
