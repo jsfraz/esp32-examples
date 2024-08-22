@@ -6,6 +6,6 @@ https://github.com/jsfraz/esp32-examples/blob/4c30ecf2fd6f1e7505d0b85cf216dae1cc
 
 Run command `tinygo flash -target=esp32-coreboard-v2 -port=/dev/ttyACM0 .` to flash the program into your ESP32.
 
-**You must hold the BOOT button while flashing.
+**You must hold the BOOT button while flashing.**
 
 Now you can connect with serial console with baud rate 9600.
