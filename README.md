@@ -23,6 +23,7 @@ Various examples for DOIT ESP32 DEVKIT V1 using Arduino IDE and TinyGo.
 
 - [Setup TinyGo](tinygo-examples/Setup%20TinyGo.md)
 - [Hello World](tinygo-examples/Hello%20World/README.md)
+- [Blinking LED](tinygo-examples/Blinking%20LED/README.md)
 
 ## Used software
 
