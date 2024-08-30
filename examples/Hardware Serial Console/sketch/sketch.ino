@@ -7,7 +7,7 @@ void setup() {
 }
 
 void loop() {
-  // Check if there is data comming
+  // Check if there is data coming
   if (Serial2.available()) {
     // Read string until newline character
     String str = Serial2.readStringUntil('\n');
